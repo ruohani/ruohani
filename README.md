@@ -1,6 +1,5 @@
-### HI MY NAME IS DARIA 👋
-
-#### Currently i'm learning programming languages. About my future achivements you can read here!
+# HI MY NAME IS DARIA 👋
+Currently i'm learning programming languages. About my future achivements you can read here!
 
 <!--
 **ruohani/ruohani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
